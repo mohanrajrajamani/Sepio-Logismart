@@ -1,0 +1,7 @@
+const SAVE_USER_DATA = "SAVE_USER_DATA";
+const GET_USER_DATA = "GET_USER_DATA";
+
+export {
+  SAVE_USER_DATA,
+  GET_USER_DATA
+};
